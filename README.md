@@ -7,8 +7,8 @@
    Email: -  
    Github: -  
 3. Anastasios Gerontopoulos  
-   Email: -  
-   Github: -  
+   Email: nasosgerontopoulos@gmail.com
+   Github: [nasosger] 
 4. Konstantinos Mparmpounakis  
    Email: -  
    Github: -  
