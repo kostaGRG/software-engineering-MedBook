@@ -10,6 +10,13 @@ After the appointment, the patient can also upload a review on their experience,
 This innovative application can aid in easy searching for the appropriate physician, bringing patients and doctors closer to each other. This can also help young doctors to establishing a good reputation among patients. The review system that we adopt can offer useful information about a doctor, their personality and their infirmary.
 
 ## Contents
+1. Functional and non-functional requirements         
+2. Users and external components (Databases, APIs)      
+3. Usecases Diagramms       
+4. User stories: gherkin syntax and diagramms
+5. User interface design     
+6. Static Model: UML diagramms and descriptions for each class.
+
 
 ## Contributors:
 1. Konstantinos Gerogiannis  
