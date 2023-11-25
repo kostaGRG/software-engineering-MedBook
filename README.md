@@ -4,7 +4,11 @@ This project, which was developed in the context of **Software Engineering I** c
 The course's goal was to make us familiar with the agile development practices for modern software applications, and basic principles like user requirements, usecases, user stories and UI/UX design.
 In addition, it includes also class diagramms following the BEC convention (Boundary-Entity-Controller). This project did not involve any coding, just abstract design.
     
-## Our application 
+## Our application: searching for a doctor made easy.
+Our idea was to design an application in which registered patients can search for registered doctors and book appointments via Medbook's interface.
+After the appointment, the patient can also upload a review on their experience, providing feedback about the doctor.    
+This innovative application can aid in easy searching for the appropriate physician, bringing patients and doctors closer to each other.
+
 
 
 ## Contributors:
