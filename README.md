@@ -29,5 +29,5 @@ This innovative application can aid in easy searching for the appropriate physic
    Email: nasosgerontopoulos@gmail.com    
    Github: [nasosger](https://github.com/nasosger) 
 4. Konstantinos Mparmpounakis  
-   Email: kon.barbounakis@gmail.com
+   Email: kon.barbounakis@gmail.com    
    Github: [kmparmpou](https://github.com/kmparmpou)
