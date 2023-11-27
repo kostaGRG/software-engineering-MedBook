@@ -28,6 +28,6 @@ This innovative application can aid in easy searching for the appropriate physic
 3. Anastasios Gerontopoulos  
    Email: nasosgerontopoulos@gmail.com    
    Github: [nasosger](https://github.com/nasosger) 
-5. Konstantinos Mparmpounakis  
-   Email: -  
-   Github: -  
+4. Konstantinos Mparmpounakis  
+   Email: kon.barbounakis@gmail.com
+   Github: [kmparmpou](https://github.com/kmparmpou)
