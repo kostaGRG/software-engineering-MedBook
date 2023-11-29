@@ -1,7 +1,7 @@
 # Software Engineering: MedBook
 This repository contains the deliverables (pdf files) as well as some class diagramms (uml files) of the **MedBook** project.
-This project, which was developed in the context of **Software Engineering I** course, involves brainstorming and designing the abstract features of an innovative software application.     
-The course's goal was to make us familiar with the agile development practices for modern software applications, and basic principles like user requirements, usecases, user stories and UI/UX design.
+This project, which was developed in the context of **Software Engineering I** course, involves conceptualizing and designing the abstract features of an innovative software application.     
+The course's goal was to make us familiar with the **Agile** development practices for modern software applications, and basic principles like user requirements, usecases, user stories and UI/UX design.
 In addition, it includes also class diagramms following the BEC convention (Boundary-Entity-Controller). This project did not involve any coding, just abstract design.
     
 ## Our application: searching for a doctor made easy.
